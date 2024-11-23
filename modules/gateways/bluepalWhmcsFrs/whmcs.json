@@ -1,0 +1,23 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "bluepalWhmcsFrs",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "بلوپال",
+    "tagline": "ماژول پرداخت یاری بلوپال (فربد رستم صولت)"
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "docs_url": "https://github.com/DJFRS/whmcs-bluepal-gateway"
+  },
+  "authors": [
+    {
+      "name": "فربد رستم صولت",
+      "homepage": "https://github.com/DJFRS/whmcs-bluepal-gateway\/"
+    }
+  ]
+}
